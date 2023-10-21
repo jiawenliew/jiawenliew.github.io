@@ -9,7 +9,9 @@
 ## CV
 [Download CV](CV_Jiawen.pdf)
 
-## Writing sample
+## Writing samples
+1) [Earned Income Tax Credit and Single Older Mothers' Labor Supply](EITC_paper.pdf)
+2) Universal Basic Income and Living Arrangements: Evidence from the Alaska Permanent Fund Dividend (Work in Progress)
 
 ## Code sample
 
