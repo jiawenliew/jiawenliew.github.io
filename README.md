@@ -7,6 +7,7 @@
 </div>
 
 ## CV
+[Download CV](CV_Jiawen.pdf)
 
 ## Writing sample
 
