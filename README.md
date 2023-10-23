@@ -15,5 +15,5 @@
 2) Universal Basic Income and Living Arrangements: Evidence from the Alaska Permanent Fund Dividend (Work in Progress)
 
 ## Code sample
-[Download sample code](code_sample)
+[Download sample code](code_sample.zip)
 *Only do-files provided, raw data is too large to upload.
