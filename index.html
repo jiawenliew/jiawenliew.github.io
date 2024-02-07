@@ -15,8 +15,26 @@
         gtag('config', 'G-42F6QY8DNT');
     </script>
     <!-- End Google Analytics Tracking Code -->
+
     <!-- Add a <style> tag to define CSS styles -->
     <style>
+        /* Define styles for the navigation bar */
+        nav {
+            background-color: #fadadd; /* Choose your desired background color */
+            color: black; /* Set text color to contrast with the background */
+            padding: 10px; /* Add padding for spacing inside the navigation bar */
+        }
+
+        nav a {
+            color: black; /* Set the color of the links */
+            text-decoration: none; /* Remove underlines from links */
+            margin-right: 20px; /* Add space between links */
+        }
+
+        nav a:hover {
+            text-decoration: underline; /* Add underline on hover */
+        }
+        
         /* Define styles for the header */
         header {
             background-color: #fadadd; /* Choose your desired background color */
@@ -28,13 +46,38 @@
             font-family: 'Garamond', serif; /* Set the font-family to Garamond */
         }
     </style>
+    
 </head>
 <body>
+    <!-- Navigation bar -->
+    <nav>
+        <a href="#about-me">About Me</a>
+        <a href="#cv">CV</a>
+        <a href="#research">Research</a>
+        <a href="#blog">Blog</a>
+    </nav>
+
     <!-- Header with name -->
     <header>
-        <h1 class="garamond">Heading 1 in Garamond</h1>
-        <h1><em>Jia Wen</em> Liew</h1>
+        <h1 class="garamond"><em>Jia Wen</em> Liew</h1>
     </header>
+
+    <!-- Content sections -->
+    <section id="CV">
+        <h2>CV</h2>
+        <!-- CV content goes here -->
+    </section>
+
+    <section id="Research">
+        <h2>Research</h2>
+        <!-- Research content goes here -->
+    </section>
+
+    <section id="Blog">
+        <h2>Blog</h2>
+        <!-- Blog content goes here -->
+    </section>
+    
    <h1>About Me</h1>
     <div style="display: flex; align-items: center;">
         <img src="image.jpeg" alt="me" width="175" height="200" style="margin-right: 20px;">
